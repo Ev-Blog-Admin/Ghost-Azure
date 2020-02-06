@@ -57,7 +57,3 @@ typings/
 # dotenv environment variables file
 .env
 
-# all content of blog
-content/
-
-.idea/
